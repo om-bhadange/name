@@ -1,6 +1,6 @@
-public class hie{ 
+public class hie { 
     public static void main(String[] args) {
-      
-        System.out.println("Hello\Om Bhadange!");
+        
+        System.out.println("Hello Om Bhadange!");
     } 
 }
